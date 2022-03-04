@@ -3946,13 +3946,13 @@ ul{
 19. Index4 start
 *******************************************************/
 .index_v4 .search_box .search_block h3{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .search_box .search_block .search_field > a{
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 .index_v4 .clv_heading h3{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_heading.white_heading h3{
 	color: #ffffff;
@@ -4003,15 +4003,15 @@ ul{
 }
 .index_v4 .appointment_btn{
 	background-color: #ffffff;
-	color: #2a7d2e;
+	color: #0E0353;
 	border-radius: 30px;
 }
 .index_v4 .appointment_btn:hover{
-	border-color: #2a7d2e;
+	border-color: #0E0353;
 	background-color: transparent;
 }
 .index_v4 .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul{
-	border-bottom-color: #2a7d2e;
+	border-bottom-color: #0E0353;
 }
 .index_v4 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a{
 	font-family: 'Source Sans Pro', sans-serif;
@@ -4033,7 +4033,7 @@ ul{
 	transform: translateX(-50%);
 	width: 2px;
 	height: 2px;
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 	opacity: 0;
 	visibility: hidden;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
@@ -4050,7 +4050,7 @@ ul{
 	transform: translateY(-50%);
 	width: 2px;
 	height: 2px;
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .index_v4 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a > span:after{
@@ -4058,16 +4058,16 @@ ul{
 	right: -6px;
 }
 .index_v4 .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul > li > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_right_header .clv_menu .cart_nav ul > li > a.cart_toggle > span{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_right_header .clv_menu .cart_nav ul > li > .clv_cart_box > a{
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 .index_v4 .clv_right_header > .clv_menu .clv_btn{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_right_header > .clv_menu .clv_btn::before{
 	background-color: #ffffff;
@@ -4087,13 +4087,13 @@ ul{
     background-size: cover;
 }
 .index_v4 .clv_btn:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_btn::before{
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 .index_v4 .clv_btn::after{
-	border: 1px solid #2a7d2e;
+	border: 1px solid #0E0353;
 }
 .index_v4 .clv_slide_inner{
 	text-align: center;
@@ -4147,11 +4147,11 @@ ul{
 	margin-top: 0;
 }
 .index_v4 .clv_banner_slider .slider_arrow:hover {
-    border-color: #2a7d2e;
-    color: #2a7d2e;
+    border-color: #0E0353;
+    color: #0E0353;
 }
 .index_v4 .clv_banner_slider .slider_arrow:hover > svg > path{
-	fill: #2a7d2e;
+	fill: #0E0353;
 }
 /*Garden Banner End*/
 /*Garden Service Start*/
@@ -4263,7 +4263,7 @@ ul{
 	margin: 0 auto;
 	margin-top: -70px;
 	position: relative;
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 .garden_about_image .garden_ofc_block h3{
 	font-size: 30px;
@@ -4288,7 +4288,7 @@ ul{
 .garden_about_wrapper .garden_about_section .garden_about_content h6{
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
-	color: #2a7d2e;
+	color: #0E0353;
 	line-height: 30px;
 	margin-bottom: 7px;
 }
@@ -4334,7 +4334,7 @@ ul{
 	width: 42px;
 	height: 42px;
 	border-radius: 50%;
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 	box-shadow: 0px 0px 0px 4px rgba(42,125,46,0.3);
 	display: flex;
 	align-items: center;
@@ -4350,7 +4350,7 @@ ul{
 /*Garden About End*/
 /*Garden Counter Start*/
 .index_v4 .clv_counter_wrapper{
-	background: url('https://via.placeholder.com/1920x950') no-repeat center;
+	background: url('banner1.png') no-repeat center;
 	background-size: cover;
 }
 .index_v4 .clv_counter_wrapper:before{
@@ -4386,7 +4386,7 @@ ul{
 }
 .service_about_content h1:after{
 	width: 170px;
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 .service_about_content h1 > span{
 	font-weight: 400;
@@ -4399,7 +4399,7 @@ ul{
 	font-size: 22px;
 	font-style: italic;
 	line-height: 32px;
-	color: #2a7d2e;
+	color: #0E0353;
 	font-weight: 500;
 	margin-bottom: 6px;
 }
@@ -4410,7 +4410,7 @@ ul{
     justify-content: center;
     border-radius: 10px;
     padding: 46px 40px;
-    background-color: #2a7d2e;
+    background-color: #0E0353;
     margin-top: 70px;
     position: relative;
     z-index: 1;
@@ -4517,7 +4517,7 @@ ul{
 	transform: translate(-50%, -50%) scale(1);
 }
 .thumb_slider .test_arrow > span.hover_arrow > svg > path{
-	fill: #2a7d2e;
+	fill: #0E0353;
 }
 .message_slider .swiper-wrapper{
 	padding: 10px;
@@ -4701,28 +4701,28 @@ ul{
 	background-color: #ffffff;
 }
 .garden_blog_slider .blog_section .agri_blog_image .agri_blog_date{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .blog_section .blog_user .comment_block span{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .right_blog_section .right_blog_block .right_blog_content .agri_blog_date{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .right_blog_block .blog_user .comment_block span{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .blog_section .agri_blog_content > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .right_blog_section .right_blog_block .right_blog_content h3 > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .right_blog_block .right_blog_content > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .garden_blog_slider .blog_section .agri_blog_content h3 > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 /*Garden Blog End*/
 /*Garden Shop Start*/
@@ -5019,7 +5019,7 @@ ul{
 }
 .garden_team_block .garden_team_overlay h6{
 	font-size: 15px;
-	color: #2a7d2e;
+	color: #0E0353;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
@@ -5140,7 +5140,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .pricing_section .pricing_block > a:hover{
-	background-color: #2a7d2e;
+	background-color: #0E0353;
 }
 /*Garden Pricing Table End*/
 /*Garden Partner Start*/
@@ -5156,8 +5156,8 @@ ul{
 	border-color: #e2e2e2;
 }
 .index_v4 .partner_slider .partner_slide .partner_image:hover{
-	background-color: #2a7d2e;
-	border-color: #2a7d2e;
+	background-color: #0E0353;
+	border-color: #0E0353;
 }
 /*Garden Partner End*/
 /*Garden Footer Start*/
@@ -5174,7 +5174,7 @@ ul{
     margin-right: 10px;
 }
 .index_v4 .agri_social_links > li > a:hover{
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .index_v4 .clv_footer_wrapper .footer_block .time_table > li{
 	display: flex;
@@ -5188,20 +5188,20 @@ ul{
 	margin-right: 10px;
 }
 .index_v4 .footer_post_section::-webkit-scrollbar-thumb {
-  background: #2a7d2e;
+  background: #0E0353;
 }
 .footer_post_section .footer_post_slide{
 	align-items: unset;
 }
 .footer_post_section .footer_post_slide > span{
 	margin-right: 10px;
-	color: #2a7d2e;
+	color: #0E0353;
 }
 .footer_post_section .footer_post_slide > .blog_links > p{
 	margin-bottom: 0;
 }
 .footer_post_section .footer_post_slide > .blog_links > a{
-	color: #2a7d2e;
+	color: #0E0353;
 	font-weight: 600;
 }
 .index_v4 .clv_footer_wrapper .footer_block .instagram_links > li > a:before{
