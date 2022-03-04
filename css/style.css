@@ -4190,7 +4190,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .garden_service_wrapper .garden_service_block:hover:before{
-	background-color: rgba(42,125,46,0.94);
+	background-color: rgba(78,29,31,0.94);
 }
 .garden_service_wrapper .garden_service_block .service_image span{
 	width: 120px;
@@ -5201,7 +5201,7 @@ ul{
 	margin-bottom: 0;
 }
 .footer_post_section .footer_post_slide > .blog_links > a{
-	color: #0E0353;
+	color: #4E1C1F;
 	font-weight: 600;
 }
 .index_v4 .clv_footer_wrapper .footer_block .instagram_links > li > a:before{
@@ -9214,7 +9214,7 @@ ul{
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
-	background-color: #fec007;
+	background-color: #4E1D1F;
 	box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
 	animation: pulse4 2s infinite;
 }
