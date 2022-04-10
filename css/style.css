@@ -4192,6 +4192,9 @@ ul{
 .garden_service_wrapper .garden_service_block:hover:before{
 	background-color: rgba(78,29,31,0.94);
 }
+.garden_service_wrapper .garden_service_block:hover:before{
+	background-color: rgba(38, 101, 211, 0.94);
+}
 .garden_service_wrapper .garden_service_block .service_image span{
 	width: 120px;
 	height: 120px;
